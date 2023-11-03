@@ -7,11 +7,13 @@ The point of this assignment is to create something from scratch and get the var
 Skills demonstrated once completed the project:
 
 - CSS foundations
+
 selectors (classes)
 properties
 box model
 
 - Flexbox
+
 flex (grow, shrink and basis)
 flex directions
 flex alignment
