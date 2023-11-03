@@ -9,11 +9,15 @@ Skills demonstrated once completed the project:
 - CSS foundations
 
 selectors (classes)
+
 properties
+
 box model
 
 - Flexbox
 
 flex (grow, shrink and basis)
+
 flex directions
+
 flex alignment
